@@ -1,0 +1,6 @@
+[Sat Apr 20 17:00:28 2024] Server listening on port 8080
+[Sat Apr 20 17:05:09 2024] File file.txt is being edited...
+[Sat Apr 20 17:05:11 2024] file.txt uploaded successfully
+[Sat Apr 20 17:05:29 2024] 123.txt uploaded successfully
+[Sat Apr 20 17:05:39 2024] File deleted successfully: 123.txt
+[Sat Apr 20 17:05:43 2024] File files/123.txt Not Found
