@@ -1,0 +1,24 @@
+как собрать проект при помощи cmake 
+
+1. скачиваем cmake
+2. создаем папку build
+3. в папке build создаем CMakeLists.txt:
+
+    cmake_minimum_required(VERSION 3.13)
+    project(visualizationGraph)
+    set(CMAKE_CXX_STANDARD 11)
+
+    include_directories("include/")
+
+    add_executable(main 
+        ../src/main.cpp
+        ../src/algorithm.cpp
+        ../src/createImage.cpp
+        ../src/drawingFigures.cpp
+        ../src/saveFile.cpp
+    )
+
+4. cd build
+5. cmake build .
+6. make
+7. ./main

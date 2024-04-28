@@ -1,0 +1,3 @@
+/Users/admin/Desktop/work/С++/graf_laboratory4_cpp/build/CMakeFiles/main.dir
+/Users/admin/Desktop/work/С++/graf_laboratory4_cpp/build/CMakeFiles/edit_cache.dir
+/Users/admin/Desktop/work/С++/graf_laboratory4_cpp/build/CMakeFiles/rebuild_cache.dir
